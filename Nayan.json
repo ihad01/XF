@@ -6,7 +6,7 @@
   "language": "en",
   "notification": false,
   "approval": false,
-  "saveState": true,
+  "saveState": false,
   "BOTNAME": "𝚁𝙰𝙸𝙷𝙰𝙽 𝙱𝙾𝚃=/🩷🪽",
   "PREFIX": "-",
   "OPERATOR": [
